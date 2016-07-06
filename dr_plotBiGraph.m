@@ -1,3 +1,4 @@
+%% This code was developed by Daniel Riofrio.
 function dr_plotBiGraph(BiGraph)
     
     scatter(BiGraph.Tasks_Location(:,1), BiGraph.Tasks_Location(:,2),150, 'filled', ...
