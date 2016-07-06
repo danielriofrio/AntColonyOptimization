@@ -1,4 +1,12 @@
+%% This code was developed by Daniel Riofrio.
 %% dr_pso_main
+% This script tests the different classes and methods 
+% in this project. 
+% The main implementation of the ACO algorithm is still missing. 
+% The intention of this work is to lay out the main representation of two problems, 
+% 1. TSP (Travel Salesman Problem), using the general fully connected graph.
+% 2. Scheduling problem, using the bipartite graph representation.
+
 n = 10;
 P1 = [0, 0];
 P2 = [30, 30];
