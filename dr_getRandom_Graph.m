@@ -1,3 +1,4 @@
+%% This code was developed by Daniel Riofrio.
 % This function creates a random fully connected graph for N cities 
 % (sites or nodes) inside a rectangle defined by P1 and P2 which are 
 % supposed to be two 2D points. 
